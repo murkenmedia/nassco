@@ -30,6 +30,7 @@
     "gulp-wp-pot": "^2.5.0",
     "lodash": "^4.17.21",
     "minimatch": ">=3.0.4",
+    "sass": "^1.50.0",
     "tunnel-agent": ">=0.6.0"
   }
 }
